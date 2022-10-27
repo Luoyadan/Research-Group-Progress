@@ -5,4 +5,4 @@ Weekly discussion
 Zixin: Variational Model Perturbation for Source-Free Domain Adaptation
 link:
 
-Ivan:
+Ivan: PMAL: Open Set Recognition via Robust Prototype Mining
