@@ -11,7 +11,11 @@ Weekly discussion
 #### Ivan: 
 - paper: 
 - link:
-- progress: (1) soft labeling + multi-head (2) soft labeling + negtive objects 
+- progress: 
+- [ ] Self-train: ROS + multi-head (8/40, 12/48, 12/48 w/t ROS for self-train)
+- [ ] Self-train: ROS + soft labeling + multi-head
+- [ ] Self-train: Soft labeling + negtive objects 
+- [X] Pre-train + Self-train: ST3D Baseline (ROS + memory bank + single head)
 
 ## 2022-10-27
 #### Zixin: 
