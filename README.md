@@ -10,6 +10,6 @@ Weekly discussion
 
 #### Ivan: 
 - paper:**PMAL: Open Set Recognition via Robust Prototype Mining**
-- link:
+- link: https://github.com/Luoyadan/Research-Group-Progress/issues/2#issue-1431203420
 - progress: running experiments on (1) multi-head, (2) + ROS (3) soft labeling
 
