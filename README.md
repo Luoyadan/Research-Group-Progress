@@ -1,6 +1,18 @@
 # Research-Group-Progress
 Weekly discussion
 
+## 2022-11-3
+#### Zixin: 
+- paper: 
+- link: 
+- progress: (1)
+
+
+#### Ivan: 
+- paper: 
+- link:
+- progress: (1) soft labeling + multi-head (2) soft labeling + negtive objects 
+
 ## 2022-10-27
 #### Zixin: 
 - paper: **Variational Model Perturbation for Source-Free Domain Adaptation**
