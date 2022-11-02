@@ -9,7 +9,7 @@ Weekly discussion
 - [X] Adjust the learning rate to 0.0001
 - [X] Change the schedular to CosineAnnealingWarmRestarts
 - [X] Double-check the target adaptation code
-- [ ] Double-check the dataloader
+- [X] Double-check the dataloader
 
 
 #### Ivan: 
