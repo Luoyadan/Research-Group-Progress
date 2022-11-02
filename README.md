@@ -3,9 +3,13 @@ Weekly discussion
 
 ## 2022-11-3
 #### Zixin: 
-- paper: 
-- link: 
-- progress: (1)
+- paper: **Low-confidence Samples Matter for Domain Adaptation**
+- link: [https://arxiv.org/abs/2202.02802](https://arxiv.org/abs/2202.02802)
+- progress: 
+- [X] Adjust the learning rate to 0.0001
+- [X] Change the schedular to CosineAnnealingWarmRestarts
+- [X] Double-check the target adaptation code
+- [ ] Double-check the dataloader
 
 
 #### Ivan: 
@@ -16,6 +20,7 @@ Weekly discussion
 - [ ] Self-train: ROS + soft labeling + multi-head
 - [ ] Self-train: Soft labeling + negtive objects 
 - [X] Pre-train + Self-train: ST3D Baseline (ROS + memory bank + single head)
+
 
 ## 2022-10-27
 #### Zixin: 
