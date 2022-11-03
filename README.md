@@ -20,7 +20,7 @@ Weekly discussion (https://uqz.zoom.us/j/7488132500)
 - [ ] Self-train: ROS + soft labeling + multi-head
 - [ ] Self-train: Soft labeling + negtive objects 
 - [X] Pre-train + Self-train: ST3D Baseline (ROS + memory bank + single head)
-
+- Todo list: soft labeling (12/8) -> select a proper interval -> single head hard pseudo labeling as a baseline -> pareto
 
 ## 2022-10-27
 #### Zixin: 
@@ -29,8 +29,10 @@ Weekly discussion (https://uqz.zoom.us/j/7488132500)
 - progress: (1). ran the poly-loss adaptation w/o freeze encoder but performance is not good. (2). decide to adjust rl to larger one and change the schedular
 
 
+
 #### Ivan: 
 - paper:**PMAL: Open Set Recognition via Robust Prototype Mining**
 - link: https://github.com/Luoyadan/Research-Group-Progress/issues/2#issue-1431203420
 - progress: running experiments on (1) multi-head, (2) + ROS (3) soft labeling
+
 
