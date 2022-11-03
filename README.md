@@ -10,7 +10,7 @@ Weekly discussion (https://uqz.zoom.us/j/7488132500)
 - [X] Change the schedular to CosineAnnealingWarmRestarts
 - [X] Double-check the target adaptation code
 - [X] Double-check the dataloader
-- todolist: re-load model weights and see the finetuning performance? lodge pseudo label accuracy and validation scores to wandb
+- todolist: re-load model weights and see the finetuning performance? lodge pseudo label accuracy and validation scores to wandb; polyloss to cross entropy + negative cross entropy
 
 
 
