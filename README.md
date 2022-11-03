@@ -1,5 +1,5 @@
 # Research-Group-Progress
-Weekly discussion
+Weekly discussion (https://uqz.zoom.us/j/7488132500)
 
 ## 2022-11-3
 #### Zixin: 
