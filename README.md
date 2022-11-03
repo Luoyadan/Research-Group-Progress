@@ -4,6 +4,7 @@ Weekly discussion (https://uqz.zoom.us/j/7488132500)
 ## 2022-11-3
 #### Zixin: 
 - paper: **Low-confidence Samples Matter for Domain Adaptation**
+- Next week: Cycle selftraining for domain adaptation
 - link: [https://arxiv.org/abs/2202.02802](https://arxiv.org/abs/2202.02802)
 - progress: 
 - [X] Adjust the learning rate to 0.0001
