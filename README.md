@@ -1,6 +1,15 @@
 # Research-Group-Progress
 Weekly discussion (https://uqz.zoom.us/j/7488132500)
 
+## 2022-11-10
+#### Zixin: 
+- paper: **Cycle self-training for domain adaptation**
+- link: [https://arxiv.org/abs/2103.03571](https://arxiv.org/abs/2103.03571)
+- progress:
+
+#### Ivan:
+
+
 ## 2022-11-3
 #### Zixin: 
 - paper: **Low-confidence Samples Matter for Domain Adaptation**
