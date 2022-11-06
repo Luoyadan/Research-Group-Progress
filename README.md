@@ -3,7 +3,7 @@ Weekly discussion (https://uqz.zoom.us/j/7488132500)
 
 ## 2022-11-10
 #### Zixin: 
-- paper: **Cycle self-training for domain adaptation**
+- paper: **Cycle Self-Training for Domain Adaptation**
 - link: [https://arxiv.org/abs/2103.03571](https://arxiv.org/abs/2103.03571)
 - progress:
 
