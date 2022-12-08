@@ -1,6 +1,14 @@
 # Research-Group-Progress
 Weekly discussion (https://uqz.zoom.us/j/7488132500)
 
+## 2022-12-08
+#### Zixin:
+- Paper:
+- Link:
+- Progress:
+
+#### Ivan:
+
 ## 2022-11-24
 #### Zixin:
 - Paper: **Re-distributing Biased Pseudo Labels for Semi-supervised Semantic Segmentation: A Baseline Investigation**
